@@ -1,0 +1,193 @@
+.logo img{
+    width:110px;
+    height: 60px;
+    margin-right: 40px;
+  
+}
+.nav ul{
+    list-style: none;
+    font-size: 12px;
+}
+.nav li{
+    margin-left: 82px;
+    position:relative;
+}
+.nav li a{
+    color:rgb(247, 184, 11);
+    text-decoration: none;
+}
+.giua-1 {
+    text-align: center;
+    color: black;
+    font-size: 12pt;
+    letter-spacing: 1.5px;
+    padding: 12px 0;
+}
+.header{
+    height: 40px;
+    background-color: rgb(248, 205, 84);
+
+}
+.sub-menu{
+    position:absolute;
+    background-color: black;
+    left:0;
+    width:108px;
+    text-align:left !important ;
+    padding: 14px;
+    visibility: hidden;
+    opacity:0;
+    transition-duration: 0.2s;
+} 
+.sub-menu li a{
+    display: block;
+}
+.sub-menu li{
+    margin:0;
+    display: block !important;
+}
+.nav li:hover .sub-menu{
+    visibility: visible;
+    opacity: 1;
+}
+.icon-1 a{
+    text-decoration: none;
+    color:black;
+    font-size: 24px;
+}
+.banner img{
+    width:1100px;
+    
+}
+.banner{
+    background-color: rgb(248, 205, 84);
+    height: 733px;
+}
+.new-crew{
+   color:black;
+}
+.anh-2 img{
+    height:600px;
+    width:630px; 
+}
+.section-2{
+    background-color:rgb(248, 205, 84);
+    height: 623px;
+}
+.card-3 img{
+    height:400px;
+    width:290px; 
+}
+.card-3 {
+    padding: 40px 0;
+    text-align: center;
+}
+.peanut-1{
+    text-align: center;
+    padding: 24px 0;
+}
+.section-3{
+    background-color:white;
+    height: 600px;
+}
+.anh-4 img{
+    height:500px;
+    width:500px; 
+}
+.section-4{
+    background-color:rgb(248, 205, 84);
+    height: 525px;
+}
+.pack-2 h4{
+    margin: 8px 0 36px;
+}
+.btn{
+    padding: 8px 24px;
+    text-decoration: none;
+    color:white;
+    background-color: black;
+    border-radius: 5px;
+    font-size:12px;
+}
+.new-crew h4{
+    margin: 8px 0 36px;
+}
+.box-1{
+    height:300px;
+    margin-left:50px;
+}
+.legit-1{
+    text-align: center;
+    padding: 24px 0;
+}
+.box-2{
+    height:300px;
+    margin-left:50px;
+}
+.anh-5 img{
+    height:600px;
+    width:500px; 
+}
+.taste-1{
+    margin-left:80px
+}
+.taste-1 h4{
+    margin: 8px 0 36px;
+}
+.section-5{
+    background-color: white;
+    height: 290px;
+}
+.section-6{
+    background-color:rgb(248, 205, 84);;
+    height: 622px;
+}
+.anh-7 img{
+    height:300px;
+    width:310px; 
+}
+.info-1 li a{
+    text-decoration: none;
+    color:white;  
+
+}
+.info-1 ul{
+    list-style: none;
+}
+.info-1{
+    margin-left:100px;
+   
+}
+.cuoi-1{
+    background-color:black;
+    height: 250px;
+}
+.section-5 h1 {
+    color:rgb(153, 0, 18);
+    
+}  
+
+.section-5 h4 {
+    color: black;
+}
+.in-1{
+    padding: 30px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
